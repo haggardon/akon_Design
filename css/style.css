@@ -1,0 +1,42 @@
+/** General **/
+
+html,body{
+  background: #27ae60;
+  font-family: 'Titillium Web', sans-serif;
+  color: #000000;
+}
+
+.line{
+  border: 2px solid #000000;
+}
+
+/** Typography **/
+
+h1{font-size:20em;margin-top:0;}
+h2{font-size:9em;}
+h2 span{font-family: 'Rationale', sans-serif;text-shadow:0.04em 0.04em 0 #fff, 0.08em 0.08em 0 #aaa;}
+h3{font-size: 4em;}
+p{font-size: 2em;}
+.justify{ text-align: justify;}
+
+/** Section: Hero **/
+
+#hero{
+  margin-top: 1em;
+}
+
+
+/** Section: Footer **/
+
+#footer{
+  text-align: right;
+  font-family: 'Pacifico', cursive;
+}
+
+.handcraft{font-size:1em;}
+
+
+/** MEDIA SCREENS **/
+@media screen and (max-width: 640px) {
+	h1{ font-size: 9em;}
+}
