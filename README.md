@@ -1,3 +1,3 @@
 # akon_Design
 
-Personal website.
+Developing a website from scratch as personal portfolio.
